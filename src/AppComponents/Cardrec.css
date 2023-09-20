@@ -1,0 +1,13 @@
+/* styles.css */
+
+.hover-effect {
+    /* Define the default styles */
+    color: black;
+    transition: background-color 0.3s;
+  }
+  
+  .hover-effect:hover {
+    /* Define the hover styles */
+    color: #d8363a;
+  }
+  
